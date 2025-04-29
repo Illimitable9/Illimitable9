@@ -10,7 +10,7 @@ pronouns: he/him (they/them if you want an atmospheric effect, as it is more mys
 
 fact: i am the autism adhd of all time
 
-linux distro preference: debian, it has more support than arch, take that arch enthusiasts
+linux distro preference: opensuse
 
 linux desktop environment preference: hyprland, maybe sometimes sway
 
