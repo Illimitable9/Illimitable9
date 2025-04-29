@@ -12,7 +12,7 @@ fact: i am the autism adhd of all time
 
 linux distro preference: debian, it has more support than arch, take that arch enthusiasts
 
-linux desktop environment preference: sway
+linux desktop environment preference: hyperland, maybe sometimes sway
 
 country: bri'ish boh'le o war'ah
 
