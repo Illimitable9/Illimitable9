@@ -1,18 +1,14 @@
 hey, im Illimitable9
 
-i am probably the laziest programmer in the world
+egg linux coming (not) soon (debian based), and maybe openSUSSY (based off of openSUSE)
 
-i can, but i wont
-
-someday though...
-
-pronouns: he/him (they/them if you want an atmospheric effect, as it is more mysterious, but not my real pronouns)
+pronouns: tbh i dont give a shin. im a man, im male sex, and all i request is that you don't use she/her.
 
 fact: i am the autism adhd of all time
 
-linux distro preference: opensuse
+linux distro preference: debian (i can hear the angry arch kids screaming their heads off)
 
-linux desktop environment preference: hyprland, maybe sometimes sway
+linux desktop environment preference: sway, stump, or if im feelin really spicy, ratpoison
 
 country: bri'ish boh'le o war'ah
 
